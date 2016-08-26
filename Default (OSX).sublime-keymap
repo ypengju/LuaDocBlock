@@ -1,0 +1,3 @@
+[
+  { "keys": ["alt+l"], "command": "lua_docs"}
+]
